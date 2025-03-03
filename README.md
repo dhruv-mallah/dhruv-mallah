@@ -1,12 +1,5 @@
-# GDSC (GOOGLE DEVELOPMENT STUDENT CLUB)
->>BUNDELKHAND REGION>>
-## GDSC-BU-WOW
- ![MasterHead](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/Slide%2016_9%20-%203.png)
-
-[GDSC-BU](https://www.bing.com/ck/a?!&&p=7efd71832ee0a7bdJmltdHM9MTcwOTU5NjgwMCZpZ3VpZD0wMjM4MjRlZi0zZjcyLTZjNDItMTZlZi0zNzc4M2VlMjZkOTEmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=023824ef-3f72-6c42-16ef-37783ee26d91&psq=bundelkhand+university+gdsc&u=a1aHR0cHM6Ly9nZHNjMjNidW5kZWxraGFuZHVuaXZlcnNpdHkuZ2l0aHViLmlvLw&ntb=1)
->>------------
 <h1 align="center">Hi 👋,Folks </h1>
-<h3 align="center">A passionate towards the tech learning and  development join the event of *GDSC WOW* </h3>
+<h3 align="center">A passionate towards the tech learning and  development </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -57,4 +50,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-mallah&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-mallah&&theme=tokyonight" alt="dhruv Mallah" /></p>
+# GDSC (GOOGLE DEVELOPMENT STUDENT CLUB)
+>>BUNDELKHAND REGION>>
+## GDSC-BU-WOW
+ ![MasterHead](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/Slide%2016_9%20-%203.png)
+
+[GDSC-BU](https://www.bing.com/ck/a?!&&p=7efd71832ee0a7bdJmltdHM9MTcwOTU5NjgwMCZpZ3VpZD0wMjM4MjRlZi0zZjcyLTZjNDItMTZlZi0zNzc4M2VlMjZkOTEmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=023824ef-3f72-6c42-16ef-37783ee26d91&psq=bundelkhand+university+gdsc&u=a1aHR0cHM6Ly9nZHNjMjNidW5kZWxraGFuZHVuaXZlcnNpdHkuZ2l0aHViLmlvLw&ntb=1)
+>>------------
 
